@@ -9,3 +9,4 @@ A  simple JavaScript game I created for practice purposes.
 </ul>
 <h3>You can start a <b>new game</b> by pressing the "New Game" button.</h3>
 <h2>Enjoy!</h2>
+<a href="https://rosebeefgame.netlify.app/" type="_blank">Click to play</a>
