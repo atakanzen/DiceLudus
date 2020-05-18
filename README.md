@@ -1,4 +1,4 @@
-# RoseBeefGame
+# DiceLudus
 A  simple JavaScript game I created for practice purposes.
 <h2>Rules</h2>
 <ul>
