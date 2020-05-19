@@ -4,7 +4,7 @@ var scores, roundScore, activePlayer, gameRunning, lastDice;
 
 
 init();
-
+alert('Welcome to DiceLudus!\n\n-How To Play-\n- Roll the dices every round to add scores to your current round score.\n- Whoever reaches the winning score first wins!.\n\n-Rules-\n1) If you roll "one", turn will pass on to the next player and your round score will reset.\n2) If you roll "double six" twice in a row, turn will pass on to the next player and your general score will reset\n\nPlease set a winning score before starting.\n\nEnjoy!');
 // function btn() {
 //     // Code
 // }
@@ -120,6 +120,6 @@ function init() {
     document.querySelector('.player-1-panel').classList.remove('active');
     document.querySelector('.inp-score').value = '';
     gameRunning = true;
-    alert('Welcome to DiceLudus!\n\n-Rules-\n1) If you roll "one", turn will pass on to the next player and your round score will reset.\n2) If you roll "double six" twice in a row, turn will pass on to the next player and your general score will reset\n\nPlease set a winning score before starting.\n\nEnjoy!');
+    
     }
     
